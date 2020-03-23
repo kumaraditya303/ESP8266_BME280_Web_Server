@@ -20,7 +20,8 @@
       Adafruit_BME280 bme(BME_CS); // use this for hardware SPI
 
     For Software SPI Communication- Uncomment the following lines:
-      Adafruit_BME280 bme(BME_CS, BME_MOSI, BME_MISO, BME_SCK); // use this for software SP
+      Adafruit_BME280 bme(BME_CS, BME_MOSI, BME_MISO, BME_SCK); // use this for software SPI
+      
   & Comment the following lines:
     #include <Wire.h>    // use this for I2C
     Adafruit_BME280 bme; // use this for I2C
@@ -33,8 +34,17 @@
   Jumper Wires:
   https://amzn.to/2U9lWMz
   
-  The source code along with libraries can be found at:
-  https://github.com/rahuladitya303/ESP8266_LPG_Leakage_Email_Sender
+  The source code can be found at:
+  https://github.com/rahuladitya303/ESP8266_BME280_Web_Server/
+
+  Download ESPAsyncWebServer library :
+  https://github.com/me-no-dev/ESPAsyncWebServer/archive/master.zip
+
+  Download ESPAsyncTCP library :
+  https://github.com/me-no-dev/ESPAsyncTCP/archive/master.zip
+
+  Download ESP8266 Filesystem Uploader :
+  https://github.com/esp8266/arduino-esp8266fs-plugin/releases/download/0.5.0/ESP8266FS-0.5.0.zip
   
 */
 
