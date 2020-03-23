@@ -2,7 +2,7 @@
   Project made and maintained by Kumar Aditya
 
   ESP8266 Weather Station
-  Read the temperature and humidity values from BME280 sensor, create a beautiful chart of the data 
+  Reads the temperature and humidity values from BME280 sensor, create a beautiful chart of the data 
   on a webserver whose data is stored on SPIFFS memory.
   
   Change these lines as per yours:
