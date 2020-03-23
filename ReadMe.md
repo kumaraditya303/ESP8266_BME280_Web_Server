@@ -51,4 +51,4 @@ https://github.com/rahuladitya303/SP8266_BME280_Web_Server/
 **Download ESP8266 Filesystem Uploader:**
 https://github.com/esp8266/arduino-esp8266fs-plugin/releases/download/0.5.0/ESP8266FS-0.5.0.zip
   
-# Project made and maintained by ***Kumar Aditya***
+# Project made and maintained by [Kumar Aditya](https://github.com/rahuladitya303/)
