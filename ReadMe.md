@@ -39,19 +39,17 @@ Adafruit_BME280 bme; // use this for I2C
 [BME280 Sensor](https://amzn.to/2xlIAII)  
 [Jumper Wires](https://amzn.to/2U9lWMz)  
   
-**The source code can be found at:**
-https://github.com/rahuladitya303/SP8266_BME280_Web_Server/
 
-**Download ESPAsyncWebServer library:**
-  https://github.com/me-no-dev/ESPAsyncWebServer/archive/master.zip
+**Download [ESPAsyncWebServer library](https://github.com/me-no-dev/ESPAsyncWebServer/archive/master.zip)**
+  
 
-**Download ESPAsyncTCP library:**
-  https://github.com/me-no-dev/ESPAsyncTCP/archive/master.zip
+**Download [ESPAsyncTCP library](https://github.com/me-no-dev/ESPAsyncTCP/archive/master.zip)**
+  
 
-**Download ESP8266 Filesystem Uploader:**
-https://github.com/esp8266/arduino-esp8266fs-plugin/releases/download/0.5.0/ESP8266FS-0.5.0.zip
+**Download [ESP8266 Filesystem Uploader](https://github.com/esp8266/arduino-esp8266fs-plugin/releases/download/0.5.0/ESP8266FS-0.5.0.zip)**
 
-**Download project file:**
-https://github.com/rahuladitya303/ESP8266_BME280_Web_Server/archive/master.zip
+
+**Download [Project file](https://github.com/rahuladitya303/ESP8266_BME280_Web_Server/archive/master.zip)**
+
   
 # Project made and maintained by [Kumar Aditya](https://github.com/rahuladitya303/)
