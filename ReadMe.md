@@ -28,16 +28,16 @@ Adafruit_BME280 bme(BME_CS); // use this for hardware SPI
 Adafruit_BME280 bme(BME_CS, BME_MOSI, BME_MISO, BME_SCK); // use this for software SPI
 ```
       
-#### Comment the following lines:
+#### Comment the following lines for SPI:
 ```c
 #include <Wire.h>    // use this for I2C
 Adafruit_BME280 bme; // use this for I2C
 ```
 
 # Parts list:
-[NodeMCU](https://amzn.to/397GzNe)
-[BME280 Sensor](https://amzn.to/2xlIAII)
-[Jumper Wires](https://amzn.to/2U9lWMz)
+[NodeMCU](https://amzn.to/397GzNe)  
+[BME280 Sensor](https://amzn.to/2xlIAII)  
+[Jumper Wires](https://amzn.to/2U9lWMz)  
   
 **The source code can be found at:**
 https://github.com/rahuladitya303/SP8266_BME280_Web_Server/
