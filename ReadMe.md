@@ -49,7 +49,7 @@ Adafruit_BME280 bme; // use this for I2C
 **Download [ESP8266 Filesystem Uploader](https://github.com/esp8266/arduino-esp8266fs-plugin/releases/download/0.5.0/ESP8266FS-0.5.0.zip)**
 
 
-**Download [Project file](https://github.com/rahuladitya303/ESP8266_BME280_Web_Server/archive/master.zip)**
+**Download [Project file](https://github.com/rahuladitya303/ESP8266_BME280_Web_Server/releases/download/1.0/ESP8266_BME280_Web_Server.zip)**
 
   
 # Project made and maintained by [Kumar Aditya](https://github.com/rahuladitya303/)
