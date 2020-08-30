@@ -1,6 +1,6 @@
-# ESP8266 Weather Station
+# ESP8266 Weather Station [![HitCount](http://hits.dwyl.com/kumaraditya303/ESP8266_BME280_Web_Server.svg)](http://hits.dwyl.com/kumaraditya303/ESP8266_BME280_Web_Server)
 **Reads the temperature and humidity values from BME280 sensor, create a beautiful chart of the data on a webserver whose data is stored on SPIFFS memory.**
-  
+ 
 ### Change these lines as per yours:
 
 ```cpp  
